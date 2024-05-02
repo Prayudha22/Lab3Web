@@ -26,7 +26,7 @@ http://localhost/phpmyadmin/ <p>
 ![img](screenshot/php.png)
 
 # Menambahkan Data
-![img](screenshot/tambah data.png)
+![img](screenshot/tambahdata.png)
 
 # Membuat Program CRUD
 Buat folder lab3_php_database pada root directory web server (c:\xampp\htdocs)<P>
