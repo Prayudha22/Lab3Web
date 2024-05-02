@@ -1,5 +1,4 @@
 # Lab3Web
-# Lab3Web
 # Persiapan
 
 Untuk memulai membuat aplikasi CRUD sederhana, yang perlu disiapkan adalah database server 
