@@ -298,6 +298,6 @@ Buat file baru dengan nama index.php<P>
     header('location: index.php');
     ?>
 
-![img](screenshot/hapus.png)
+![img](Screenshot/hapus.png)
 
 #TERIMAKASIH
