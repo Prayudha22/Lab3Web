@@ -288,7 +288,7 @@ Buat file baru dengan nama index.php<P>
 ![img](Screenshot/ubah.png)
 
 # Menghapus Data (Delete)
-<P>Buat file baru dengan nama hapus.ph<p>
+<P>Buat file baru dengan nama hapus.php<p>
     
     <?php
     include_once 'koneksi.php';
@@ -297,7 +297,5 @@ Buat file baru dengan nama index.php<P>
     $result = mysqli_query($conn, $sql);
     header('location: index.php');
     ?>
-
-![img](Screenshot/hapus.png)
 
 #TERIMAKASIH
